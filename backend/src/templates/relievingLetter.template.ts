@@ -774,7 +774,7 @@ export const relievingLetterTemplate = (
             <div class="verification-text">
               Scan the QR code to independently verify
               the authenticity of this document through
-              VeriStaff.
+              VeriDesk.
             </div>
 
             <div class="verification-url">
@@ -825,7 +825,7 @@ export const relievingLetterTemplate = (
 
       <br />
 
-      Digitally generated and verifiable through VeriStaff.
+      Digitally generated and verifiable through VeriDesk.
 
     </div>
 

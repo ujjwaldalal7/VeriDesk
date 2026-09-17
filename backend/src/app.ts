@@ -31,7 +31,7 @@ app.use(morgan(env.NODE_ENV === "production" ? "combined" : "dev"));
 app.get("/health", (_req, res) => {
   res.json({
     success: true,
-    service: "VeriStaff Backend",
+    service: "VeriDesk Backend",
     status: "healthy",
     timestamp: new Date().toISOString()
   });
