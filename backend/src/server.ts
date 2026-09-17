@@ -3,7 +3,7 @@ import { env } from "./config/env.js";
 import { prisma } from "./lib/prisma.js";
 
 const server = app.listen(env.PORT, () => {
-  console.log(`VeriStaff API running on http://localhost:${env.PORT}`);
+  console.log(`VeriDesk API running on http://localhost:${env.PORT}`);
 });
 
 const shutdown = async (signal: string) => {

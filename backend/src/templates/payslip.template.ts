@@ -509,7 +509,7 @@ export const payslipTemplate = (
 
           <div class="verification-text">
             Scan this QR code to verify this payslip
-            through VeriStaff.
+            through VeriDesk.
           </div>
 
           <div class="verification-url">
