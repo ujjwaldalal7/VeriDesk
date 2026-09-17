@@ -43,7 +43,7 @@ export default function Landing() {
           </p>
 
           <h1 className="max-w-3xl text-4xl font-bold leading-tight sm:text-6xl">
-            VeriStaff
+            VeriDesk
           </h1>
 
           <p className="mt-5 max-w-2xl text-lg leading-8 text-slate-300">

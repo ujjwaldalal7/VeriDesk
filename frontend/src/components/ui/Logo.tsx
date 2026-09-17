@@ -13,7 +13,7 @@ export default function Logo({
   size = "md",
   linkTo = "/dashboard",
   logoUrl,
-  name = "VeriStaff"
+  name = "VeriDesk",
 }: LogoProps) {
   const logoSrc =
     logoUrl ||
