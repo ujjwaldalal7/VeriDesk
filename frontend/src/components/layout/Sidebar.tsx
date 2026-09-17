@@ -135,7 +135,7 @@ export default function Sidebar({
           size="sm"
           linkTo="/dashboard"
           logoUrl={tenant?.logoUrl}
-          name={tenant?.name || "VeriStaff"}
+          name={tenant?.name || "VeriDesk"}
         />
 
         <button
